@@ -1,0 +1,133 @@
+html{ 
+  background: url(images/background.jpg) no-repeat center center fixed; 
+  background-size: cover;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.prof-box{
+  width:400px;
+  height:400px;
+  background:rgba(0,0,0,0.4);
+  padding:40px;
+  color:#f3efef;
+  margin:0 auto;
+  margin-top: 30px;
+  text-align:center;
+  font-size:0.75em;
+}
+
+.img-circle{
+  border-radius:60%;
+  max-width:40%;
+  max-height:40%;
+}
+
+
+.prof-box2{
+  width:700px;
+  height:400px;
+  background:rgba(0,0,0,0.4);
+  padding:40px;
+  color:#f3efef;
+  margin:0 auto;
+  margin-top: 30px;
+  text-align:center;
+  font-size:0.75em;
+}
+
+.prof-box3{
+  width:700px;
+  height:400px;
+  background:rgba(0,0,0,0.4);
+  padding:40px;
+  color:#f3efef;
+  margin:0 auto;
+  margin-top: 30px;
+  text-align:left;
+  font-size:0.75em;
+}
+
+.prof-box4{
+  width:700px;
+  height:400px;
+  background:rgba(0,0,0,0.4);
+  padding:40px;
+  color:#f3efef;
+  margin:0 auto;
+  margin-top: 30px;
+  text-align:left;
+  font-size:0.75em;
+}
+
+.ulkeyskills{
+  list-style-image:<a <i class="fa fa-check-square" aria-hidden="true"></i></a>;
+  text-align: left;
+  letter-spacing:8;
+}
+
+h1
+.titles{
+  font-weight:90;
+  font-size:48px;
+  color:green;
+}
+
+h2{
+  font-weight: 50;
+  font-size: 16px;
+}
+
+footer{ 
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color:white;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    text-align:right;
+    font-style: italic;
+  }
+
+  .social.links{
+    font-size:80px;
+  }
+
+  .social-channels{
+    list-style: none;
+  }
+
+  .social-channels li {
+    display: inline-block;
+    margin-right: 0.5em;
+}
+
+
+
+.key-skills{
+  text-align:left;
+}
+
+  /* Navigation
+------------------------------------------*/
+
+nav ul {
+  list-style: none;
+  display: flex;
+ }
+
+nav ul li {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  margin:0 auto;
+  padding:2em;
+  }
+
+nav ul li a {
+  padding: .6em .6em;
+  background:rgba(0,0,0,0.4);
+  border-radius: 12px;
+  transition: all 2s ease-in-out;
+  color: white;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background: rgb(0, 51, 102);
+  <span style="cursor:pointer">pointer</span>
